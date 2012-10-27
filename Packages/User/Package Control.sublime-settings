@@ -1,0 +1,19 @@
+{
+	"auto_upgrade_last_run": 1351360973,
+	"installed_packages":
+	[
+		"Alignment",
+		"Awk",
+		"Crypto",
+		"CSV",
+		"Grid6",
+		"IndentGuides",
+		"Package Control",
+		"SideBarEnhancements",
+		"TextFormatting"
+	],
+	"repositories":
+	[
+		"https://github.com/ttscoff/MarkdownEditing"
+	]
+}
